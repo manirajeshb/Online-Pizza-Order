@@ -1,0 +1,115 @@
+@CHARSET "ISO-8859-1";
+body{ 
+	background-color:#3D9970;
+	color:white;
+	postion:relative;
+	font-family:"Helvetica Neue";
+  }
+  /* This footer styling is used in all the JSP files */
+ #footer{
+ position:fixed;
+ bottom:0;
+ left:0;
+ }
+ /* text -decoration none removes the underline for the anchor tags */ 
+a {
+    text-decoration: none;
+    color: inherit;
+}
+#rcontent{
+ float:right;
+ }
+
+.homepage{
+ width:300px;
+ margin:0 auto ;
+ padding:20px 20px 20px 20px;
+ position:relative;
+ margin-top:40px;
+ marging-left:575px;
+ text-align:center;
+ 
+}
+.homepage1{
+width:300px;
+ margin:0 auto ;
+ padding:20px 20px 20px 20px;
+ position:relative;
+ margin-top:40px;
+ marging-left:575px;
+ text-align:center;
+ 
+}
+
+h2 {
+	text-align:center;
+	color:white;
+}
+#login{
+	position:relative;
+	top:180px;
+	
+	
+}
+#login1{
+    margin: 0 auto;
+    padding: 20px 20px 20px 20px;
+    margin-left:550px;
+    width:400px;
+    
+    
+    
+}
+#login2{
+    margin: 0 auto;
+    padding: 20px 20px 20px 20px;
+    margin-left:800px;
+    width:400px;
+    
+    
+    
+}
+input[type="email"],input[type="password"],input[type="text"],input[type="number"]{
+	width:15em;
+	margin-left:0.5em;
+	margin-right:0.5em;
+}
+table {
+    margin: 0 auto;
+
+}
+#welcome{
+	float:right;
+}
+.alert-danger{
+	color:red;
+	position:absolute;
+	left:20%;
+}
+#mandate{
+	
+	position:absolute;
+	left:20%;
+}
+#AboutUs{
+ position:relative;
+ display:block;
+ top:170px; 
+ }
+ #register{
+	position:absolute;
+	left:20%;
+ }
+ #aboutus_image{
+	float:right;
+}
+ pre{
+	font-family:Arial;
+	font-size:10pt;	
+}
+#banner{
+	position:absolute;
+	top:0;
+	left:0;	
+	 	  	
+  }
